@@ -1,0 +1,23 @@
+{
+  "name": "gettext-extractor",
+  "version": "1.0.0",
+  "description": "Extract gettext from app src files",
+  "main": "index.js",
+  "bin": {
+    "extract": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "extractTestApp": "extract testApp/**.*"
+  },
+  "keywords": [
+    "gettext",
+    "po"
+  ],
+  "author": "Sinisa Mikulic",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "fs": "0.0.2"
+  }
+}

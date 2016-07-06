@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+Project-Id-Version:1233
+Report-Msgid-Bugs-To:Niels Sandholt Busch
+Last-Translator:Niels Sandholt Busch
+Language-Team:resmio
+Language:en
+Plural-Forms:nplurals=2; plural=(n != 1);
+MIME-Version:1.0
+Content-Type:text/plain; charset=UTF-8
+Content-Transfer-Encoding:8bit
+
+#:testApp/alert_template.html
+msgid "Error message."
+msgstr ""
+
+#:testApp/submit_template.html
+msgid "Enter how many eggs do you want?"
+msgstr ""
+
+,#:testApp/submit_template.html
+msgid "Submit"
+msgstr ""
+
